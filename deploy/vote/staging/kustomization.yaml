@@ -25,5 +25,5 @@ commonAnnotations:
 configMapGenerator:
   - name: vote
     literals:
-    - OPTION_A=STAGING
-    - OPTION_B=DEV
+    - OPTION_A=STAGING_1
+    - OPTION_B=DEV_1
